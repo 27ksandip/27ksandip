@@ -55,12 +55,15 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=27ksandip&theme=dark&hide_border=true" height="180" />
+  <!-- Streak stats: For private streak stats, use the action generated URL -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=27ksandip&theme=dark&hide_border=true&count_private=true" height="180" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=27ksandip&layout=compact&theme=dark&hide_border=true" height="130" />
+  
+  <!-- Top languages: This URL works but to include private languages, generate with your action -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=27ksandip&layout=compact&theme=dark&hide_border=true&count_private=true" height="130" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=27ksandip&show_icons=true&count_private=true&theme=dark&hide_border=true" height="160" />
 </div>
+
 
 ---
 
