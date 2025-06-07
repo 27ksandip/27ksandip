@@ -10,18 +10,19 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a target="_blank" href="https://www.linkedin.com/in/jhasandip/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/UpWork-6fda44?style=flat&logo=upwork&logoColor=white" /></a>
+  <a target="_blank" href="https://www.upwork.com/freelancers/~01e6a00a7c217867cb?mp_source=share"><img src="https://img.shields.io/badge/UpWork-6fda44?style=flat&logo=upwork&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 💼 4+ years of hands-on experience in backend development
+- 💼 4+ years of hands-on experience as Full Stack Laravel Developer
 - 🔧 Specializing in Laravel, RESTful APIs, and role-based systems
 - 📦 Modular architecture expert — ERP systems for 10+ schools
+- 💡 Specialize in developing WordPress websites using custom and child themes
 - 🧪 Focused on writing clean, testable code with PHPUnit & Cypress
 - 🤝 Mentor on UpWork with 28+ projects & 100% job success rate
 
@@ -74,7 +75,7 @@
 
 📧 kumarjsandip@gmail.com  
 📍 Kathmandu, Nepal  
-🌐 [LinkedIn](#) | [GitHub](#) | [UpWork](#)
+🌐 [LinkedIn](https://www.linkedin.com/in/jhasandip/) | [UpWork](https://www.upwork.com/freelancers/~01e6a00a7c217867cb?mp_source=share)
 
 ---
 
