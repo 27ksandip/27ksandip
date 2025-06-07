@@ -24,7 +24,7 @@
 - 📦 Modular architecture expert — ERP systems for 10+ schools
 - 💡 Specialize in developing WordPress websites using custom and child themes
 - 🧪 Focused on writing clean, testable code with PHPUnit & Cypress
-- 🤝 Mentor on UpWork with 28+ projects & 100% job success rate
+- 🤝 Mentor on UpWork with 28+ projects & 300+ hours worked
 
 ---
 
@@ -72,7 +72,7 @@
 
 - 🏫 ERP deployed across 10+ schools, serving 1,000+ daily users
 - 🧪 80% test coverage with PHPUnit & Cypress
-- ✅ 28+ successful freelance projects on UpWork
+- ✅ 28+ successful freelance projects on UpWork with 90% job success 
 - 📈 50–80 monthly commits on GitHub
 
 ---
