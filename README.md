@@ -64,7 +64,9 @@
   <br/>
 </div>
 
-
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=27ksandip.27ksandip" alt="Visitor Count" />
+</div>
 ---
 
 ### 🏆 Highlights
